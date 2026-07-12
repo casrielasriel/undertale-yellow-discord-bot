@@ -4,4 +4,6 @@ seems to softlock at snowdin likely because of physics and shit. i might fix or 
 
 https://discord.com/oauth2/authorize?client_id=1517401610181935165
 
+https://casrielasriel.github.io/undertale-yellow-discord-bot/
+
 web port by genizy
