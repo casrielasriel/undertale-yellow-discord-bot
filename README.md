@@ -8,4 +8,6 @@ https://casrielasriel.github.io/undertale-yellow-discord-bot/
 
 https://legacy.deltarune.win/chapter1/index.html
 
+https://br.deltarune.win/
+
 web port by genizy
