@@ -6,4 +6,6 @@ https://discord.com/oauth2/authorize?client_id=1517401610181935165
 
 https://casrielasriel.github.io/undertale-yellow-discord-bot/
 
+https://legacy.deltarune.win/chapter1/index.html
+
 web port by genizy
